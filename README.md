@@ -4,9 +4,9 @@
 <h2> one frame </h2>
 
 <details>
-    __Labels:__
-
-    __Commentaire:__
+    Labels:
+   
+    Commentaire:
 
     Par exemple les signes ok gauche, signe ok droite, signe ok haut, signe ok bas = signe ok
     techinque des 3 detections (toutes les 3 détections on prend la plus présente)
@@ -18,9 +18,9 @@
 <h1>Model main LSTM</h1>
 
  <details>
-__Labels:__
+    Labels:
 
-__Commentaire:__
+    Commentaire:
 
     Modèle de 5 image
 </details>
@@ -30,9 +30,9 @@ __Commentaire:__
 <h1>Model deux mains</h1>
 
 <details>
-__Labels:__
+    Labels:
 
-__Commentaire:__
+    Commentaire:
 </details>
 
 
