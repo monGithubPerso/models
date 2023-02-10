@@ -10,12 +10,12 @@
         
 <h3>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Utilisation des modèles
+        - Utilisation des modèles
 </h3>
         
 <h3>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Construction des modèles
+        - Construction des modèles
 </h3>
             
 <h4>
@@ -26,7 +26,7 @@
 
 <h2>    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Les modèles 
+        • Les modèles 
 </h2>
 
 <h3>       
