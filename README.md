@@ -1,7 +1,7 @@
 
 <h1>Head</h1>
 
-<details>
+
 
   <h2> One frame </h2>
 
@@ -42,4 +42,4 @@
       Labels:
       Commentaire:
 
-</details>
+
