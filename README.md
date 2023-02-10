@@ -3,9 +3,9 @@
 sommaire:
 <h1>Sommaire</h1>
 
-<h2>    Les modèles </h2>
+<h2>-----Les modèles </h2>
         
-<h3>        Utilisation des modèles</h3>
+<h3>---------Utilisation des modèles</h3>
         
 <h3>        Construction des modèles</h3>
             
