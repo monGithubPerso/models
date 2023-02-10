@@ -20,13 +20,17 @@
 <h1>Model main LSTM</h1>
 
 <details>
+    
     Commentaire: Modèle de 5 image
  
 </details>
 
 
 <h1>Model deux mains</h1>
-<details>dzdaz</details>
+
+<details>
+        Commentaire: 
+</details>
 
 
 
