@@ -1,0 +1,303 @@
+
+1:  signe de la bouche
+2:  ouvert / fermee bouche
+3:  yeux droit
+4:  yeux gauche
+
+desactivé si:
+    - profil 
+    - trop loin
+
+d   -> on peut pas le faire. -> trouver une solution.
+e
+x
+ao
+pas full screen
+
+
+b   -> lunette + reflet dessus
+
+
+
+x
+    1: 100.00000000000000000000000000 %
+    2:
+    3:
+    4:
+
+ao          # to_resize
+    1:to_anot
+    2: 100.00000000000000000000000000 %
+    3:
+    4:
+
+
+
+ae
+    1: 9.342105263157896 % sur /  760
+    2:
+    3:
+    4:
+
+
+
+l   -   (0  -   2864)
+    1: 0.000000000000000 % sur /  176
+    2:
+    3:
+    4:
+
+a   -   1   -   (0 - 10000)
+    1: 0.3629764065335753 % sur /  551
+    2: 
+    3: 
+    4: zzz
+
+
+b   -   2   -   (0  -   10000) no 3/4
+    1: to_anot
+    2:
+
+
+c   -   3   -   (0  -   10000)
+    1:  to_anot
+    2: 
+    3: 
+    4: 
+
+
+
+o   -   (0  -   10000)
+    1: to_anot
+    2:
+    3:
+    4:
+
+
+r   -   (0  -   10000)
+    1: to_anot
+    2:
+    3:
+    4:
+
+
+f   -   4   -   (0  -   10000)
+    1: to_anot
+    2:
+    3:
+    4:
+
+
+s  -   (0  -   10000)
+    1:to_anot
+    2:
+    3:
+    4:
+
+g   -   5   -   (0  -   10000) 
+    1: to_anot
+    2:
+    3:
+    4:
+
+
+
+h   -      -  (0   -   359)
+    1:to_anot
+    2:
+    3:
+    4:
+
+i   -      -   (0  -   140)
+    1: to_anot
+    2:
+    3:
+    4:
+
+q   -   (0  -   10000) no resize
+    1:  to_anot
+    2:
+    3:
+    4:
+
+z
+    1:to_anot
+    2:
+    3:
+    4:
+
+aa
+    1:to_anot
+    2:
+    3:
+    4:
+
+ab
+    1:to_anot
+    2:
+    3:
+    4:
+
+ad
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+
+
+
+af
+    1: to_anot
+    2:
+    3:
+    4:
+
+ag
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+ah
+    1:to_anot
+    2:
+    3:
+    4:
+
+ai
+    1:to_anot
+    2:
+    3:
+    4:
+
+aj
+    1:to_anot
+    2:
+    3:
+    4:
+
+ak
+    1:to_anot
+    2:
+    3:
+    4:
+
+al
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+am
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+ap
+    1:to_anot
+    2:
+    3:
+    4:
+
+aq
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+ar
+    1:to_anot
+    2:
+    3:
+    4:
+
+as
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+at
+    1:to_anot
+    2:
+    3:
+    4:
+
+au
+    1:to_anot
+    2:
+    3:
+    4:
+
+aw
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+ax
+    1:to_anot
+    2:
+    3:
+    4:
+
+ac
+    1:to_anot
+    2:
+    3:
+    4:
+
+t
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+an
+    1:to_anot
+    2:
+    3:
+    4:
+
+av
+    1:to_anot
+    2:
+    3:
+    4:
+
+u
+    1:to_anot
+    2:
+    3:
+    4:
+
+v
+    1:to_anot
+    2:
+    3:
+    4:
+
+w
+    1: 4.897314375987362 % sur /  633
+    2:
+    3:
+    4:
+
+y
+    1:to_anot
+    2:
+    3:
+    4:
+
+
+
