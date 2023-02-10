@@ -5,7 +5,7 @@
 
 <h2>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Les modèles 
+        Les modèles et leur fonctionement techniques
 </h2>
         
 <h3>
