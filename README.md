@@ -17,7 +17,7 @@ __Commentaire:__
 <h1>Model main LSTM</h1>
 
  
-__Labels: 
+__Labels:__
 
 __Commentaire:__
 
