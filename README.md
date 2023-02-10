@@ -13,12 +13,16 @@
 
 
 
-
-
-  <h2>LSTM (5 frames) </h2>
 </details>
 
 
+
+<h1>Model main LSTM</h1>
+
+<details>
+    Commentaire: Modèle de 5 image
+ 
+</details>
 
 
 <h1>Model deux mains</h1>
