@@ -8,7 +8,6 @@
     Labels:
    
     Commentaire: Par exemple les signes ok gauche, signe ok droite, signe ok haut, signe ok bas = signe ok
-                  
                  techinque des 3 detections (toutes les 3 détections on prend la plus présente)
 
 
