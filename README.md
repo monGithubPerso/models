@@ -18,11 +18,14 @@
 <h2> Model 1: Open - Close - big open </h2>
 
     commentaire: crop technic, on récupère le minimum sur x, 
-
+                 
+                 Problème sur les vidéo ou la hauteur est plus grande que la largeur.
+        
     le minimum sur y et on enlève ses minimums à tous les pts. 
 
-    Annotation uniquement sur la fermeture de la bouche et sur la grande ouverture.
-
+    Annotation 1: fermeture et grande ouverture de la bouche.
+    
+    Annotation 2: ouverture de la bouche
 
 <h2>Model 2 Signs</h2>
 
