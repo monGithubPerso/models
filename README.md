@@ -9,8 +9,7 @@
 
 <h1>Bouche</h1>
 
-![picture](https://user-images.githubusercontent.com/54853371/219331364-343c0871-7726-42d3-83bf-a07b23c91f9a.png)
-
+![picture](https://user-images.githubusercontent.com/54853371/219331849-2694c5ce-d5eb-4610-9f57-37bbafaeeb04.png)
 
 
 <details>
