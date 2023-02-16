@@ -36,7 +36,7 @@
 
 
 <center>
-        ![bouche_lable](https://user-images.githubusercontent.com/54853371/216463750-fe192cb2-218e-449f-8ef1-422d5624eb13.png)
+        <img src="https://user-images.githubusercontent.com/54853371/216463750-fe192cb2-218e-449f-8ef1-422d5624eb13.png">
 </center>
         
               1 neutre
