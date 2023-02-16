@@ -35,9 +35,10 @@
    le minimum sur y et on enlève ses minimums à tous les pts.
 
 
-
-![bouche_lable](https://user-images.githubusercontent.com/54853371/216463750-fe192cb2-218e-449f-8ef1-422d5624eb13.png)
-
+<center>
+        ![bouche_lable](https://user-images.githubusercontent.com/54853371/216463750-fe192cb2-218e-449f-8ef1-422d5624eb13.png)
+</center>
+        
               1 neutre
               3 bouche_rentree
               4 o
