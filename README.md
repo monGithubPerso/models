@@ -3,7 +3,9 @@
 <details>
 
 
-        commentaire: 
+        commentaire: Peu de détection, sensibilité aux changements de frame et au skelette.
+      
+                     model a consolider
 
 </details>
 
