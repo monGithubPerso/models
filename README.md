@@ -3,9 +3,9 @@
 <details>
 
 
-        commentaire: Peu de détection, sensibilité aux changements de frame et au skelette.
-      
-                     model a consolider
+        commentaire: Peu de détection quand la personne lève les sourciles en bougeant, 
+                     sensibilité aux changements de frame et au skelette.
+                     model a consolider.
 
 </details>
 
